@@ -5,7 +5,7 @@ import tempfile
 
 # 1. Configuração da página e Estilo Hooklabs (Dark Mode Premium)
 st.set_page_config(
-    page_title="Hooklabs Downloader",
+    page_title="Edit-videos Downloader",
     page_icon="📥",
     layout="centered"
 )
