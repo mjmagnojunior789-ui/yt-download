@@ -85,7 +85,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Cabeçalho do App (Estilo Hooklabs)
-st.markdown("<h1>HOOKLABS <span style='color:#6366f1'>DOWNLOADER</span></h1>", unsafe_allow_html=True)
+st.markdown("<h1>EDITORS-VIDEOS <span style='color:#6366f1'>DOWNLOADER</span></h1>", unsafe_allow_html=True)
 st.markdown("<p class='subtitle'>Baixe seus vídeos e áudios favoritos do YouTube de forma rápida e limpa.</p>", unsafe_allow_html=True)
 
 # 2. Input do Usuário
